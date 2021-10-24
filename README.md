@@ -1,3 +1,7 @@
+# conditional_list_split
+
+テキストファイルにある 0 から 9 のラベル付き学習データを任意のラベルで分割する
+
 # qiita
 
 https://qiita.com/seamcarving/items/a89eacbfe3c086beda67
